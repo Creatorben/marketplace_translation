@@ -623,141 +623,141 @@ Status,Status
 Amount,Menge
 Action,Aktion
 "To Become Seller Please Contact to Admin.","Um Anbieter zu werden, bitte Locorum kontaktieren."
-"<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1"
-"Buyer Information","Buyer Information"
-"Customer Name","Customer Name"
-"Order Information","Order Information"
-"Shipping Address","Shipping Address"
-"Shipping Method","Shipping Method"
-"No shipping information available","No shipping information available"
-"Billing Address","Billing Address"
-"ITEMS TO REFUND","ITEMS TO REFUND"
-"Back To My Orders","Back To My Orders"
-"Return to Stock","Return to Stock"
-"Qty to Refund","Qty to Refund"
-"Items to Refund","Items to Refund"
-"Paid Amount","Paid Amount"
-"Refund Amount","Refund Amount"
-"Shipping Amount","Shipping Amount"
-"Shipping Refund","Shipping Refund"
-"Order Grand Total","Order Grand Total"
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">Bestelldatum:</span> %1"
+"Buyer Information","Information über Kunde"
+"Customer Name","Name des Kunden"
+"Order Information","Bestellinformation"
+"Shipping Address","Lieferadresse"
+"Shipping Method","Liefermethode"
+"No shipping information available","Keine Lieferinformation verfügbar"
+"Billing Address","Rechnungsadresse"
+"ITEMS TO REFUND","PRODUKTE ZUR RüCKERSTATTUNG"
+"Back To My Orders","Zurück zu meinen Bestellungen"
+"Return to Stock","Zum Bestand zurück"
+"Qty to Refund","Rückzuerstattende Menge"
+"Items to Refund","Rückzuerstattende Produkte"
+"Paid Amount","Bezahlter Betrag"
+"Refund Amount","Rückerstattung Betrag"
+"Shipping Amount","Liefermenge"
+"Shipping Refund","Lieferrückerstattung"
+"Order Grand Total","Total der Bestellung"
 "Credit Memo Comments","Credit Memo Comments"
-"Refund Totals","Refund Totals"
-"Refund Shipping","Refund Shipping"
-"Append Comments","Append Comments"
-"Visible on Frontend","Visible on Frontend"
+"Refund Totals","Rückerstattung Total"
+"Refund Shipping","Lieferung zurückerstatten"
+"Append Comments","Kommentare hinzufügen"
+"Visible on Frontend","Auf Webseite sichtbar"
 "Email Copy of Credit Memo","Email Copy of Credit Memo"
 "Refund Offline","Refund Offline"
 "Refund Online","Refund Online"
-Refund,Refund
+Refund,Rückerstattung
 "Creditmemo #%1","Creditmemo #%1"
 "Are you sure you want to send credit memo email to customer?","Are you sure you want to send credit memo email to customer?"
-"Send Email To Customer","Send Email To Customer"
-"Send Email","Send Email"
-Print,Print
-"Order # %1","Order # %1"
-"Order Status","Order Status"
-"Order Date","Order Date"
-"Address Information","Address Information"
-"Payment & Shipping Method","Payment & Shipping Method"
-"Shipping and Tracking Information","Shipping and Tracking Information"
-"Download All Shipping Slip","Download All Shipping Slip"
-"Download All Invoice Slip","Download All Invoice Slip"
-"Order Id","Order Id"
-Date,Date
-"Search by Order Id","Search by Order Id"
-"Date From","Date From"
-"Date To","Date To"
-All,All
+"Send Email To Customer","Email an Kunden senden"
+"Send Email","Email senden"
+Print,Drucken
+"Order # %1","Bestellung # %1"
+"Order Status","Bestellstatus"
+"Order Date","Bestelldatum"
+"Address Information","Addressinformation"
+"Payment & Shipping Method","Bezahlung und Liefermethode"
+"Shipping and Tracking Information","Lieferung und Tracking Info"
+"Download All Shipping Slip","Alle Lieferscheine herunterladen"
+"Download All Invoice Slip","Alle Rechnungen herunterladen"
+"Order Id","Bestell-Id"
+Date,Datum
+"Search by Order Id","Suche nach Bestell-Id"
+"Date From","Datum von"
+"Date To","Datum bis"
+All,Alle
 label,label
-"Download Invoice Slip","Download Invoice Slip"
-"Date Untill","Date Untill"
-"Download Packaging Slip","Download Packaging Slip"
-"Items Invoiced","Items Invoiced"
-"Total Price","Total Price"
-"Admin Commission","Admin Commission"
-"Vendor Total","Vendor Total"
-"Invoice #%1","Invoice #%1"
-"Are you sure you want to send invoice email to customer?","Are you sure you want to send invoice email to customer?"
-"Invoice Slip","Invoice Slip"
-"Print Invoice","Print Invoice"
-"Manage Order #%1","Manage Order #%1"
-"Are you sure you want to cancel this order?","Are you sure you want to cancel this order?"
-"Cancel Order","Cancel Order"
-"Are you sure you want to send order email to customer?","Are you sure you want to send order email to customer?"
-"Create Invoice to confirm collected amount from buyer for this order","Create Invoice to confirm collected amount from buyer for this order"
-"Are you sure you want to create invoice?","Are you sure you want to create invoice?"
-Invoice,Invoice
+"Download Invoice Slip","Rechnung herunterladen"
+"Date Untill","Datum seit"
+"Download Packaging Slip","Lieferschein herunterladen"
+"Items Invoiced","Produkte in Rechnung gestellt"
+"Total Price","Totaler Preis"
+"Admin Commission","Kommission"
+"Vendor Total","Anbieter Total"
+"Invoice #%1","Rechnung #%1"
+"Are you sure you want to send invoice email to customer?","Sind Sie sicher dass Sie die Rechnung an den Kunden senden wollen?"
+"Invoice Slip","Rechnung"
+"Print Invoice","Rechnung drucken"
+"Manage Order #%1","Bestellung bearbeiten #%1"
+"Are you sure you want to cancel this order?","Sind Sie sicher dass Sie diese Bestellung stornieren möchten?"
+"Cancel Order","Bestellung stornieren"
+"Are you sure you want to send order email to customer?","Sind Sie sicher dass Sie das Bestell-Mail an den Kunden senden wollen?"
+"Create Invoice to confirm collected amount from buyer for this order","Rechnung erstellen um eingezogenen Betrag zu bestätigen"
+"Are you sure you want to create invoice?","Sind Sie sicher dass Sie die Rechnung erstellen wollen?"
+Invoice,Rechnung
 "Pay Admin for his commission for this order","Pay Admin for his commission for this order"
 "If you pay admin commission then you can not do refund for buyer in future. Are you sure you want to pay admin for his commission?","If you pay admin commission then you can not do refund for buyer in future. Are you sure you want to pay admin for his commission?"
 "Pay Admin Commission","Pay Admin Commission"
 "Create Credit Memo","Create Credit Memo"
 "Credit Memo","Credit Memo"
-"Create Shipment for Order","Create Shipment for Order"
-Ship,Ship
-Carrier,Carrier
-"Tracking Number","Tracking Number"
-"Are you sure you want to create shipment?","Are you sure you want to create shipment?"
-"Order List Per Product","Order List Per Product"
-"Order #","Order #"
-"Buyer Name","Buyer Name"
-"Sold on","Sold on"
-Download,Download
-"Shipping Slip","Shipping Slip"
-"Items Shipped","Items Shipped"
-"Qty Shipped","Qty Shipped"
-"Shipment #%1","Shipment #%1"
-"Are you sure you want to send shipment email to customer?","Are you sure you want to send shipment email to customer?"
-"Send Tracking Information","Send Tracking Information"
-"Shipment Slip","Shipment Slip"
-"Print Shipment","Print Shipment"
-"Track this shipment","Track this shipment"
-Add,Add
-"Invoice and Packing Slip Address/VAT/Tax Information","Invoice and Packing Slip Address/VAT/Tax Information"
-"Save Information","Save Information"
-"Save & Duplicate","Save & Duplicate"
-"Attribute Set","Attribute Set"
-Description,Description
-"Short Description","Short Description"
-"SKU Available","SKU Available"
-"SKU Already Exist","SKU Already Exist"
-"Special Price","Special Price"
-"Special Price From","Special Price From"
-"Special Price To","Special Price To"
-Stock,Stock
-"Stock Availability","Stock Availability"
-"In Stock","In Stock"
-"Out of Stock","Out of Stock"
-Visibility,Visibility
-"Tax Class","Tax Class"
-Weight,Weight
-"Does this have a weight?","Does this have a weight?"
-"Url Key","Url Key"
+"Create Shipment for Order","Lieferung für die Bestellung erstellen"
+Ship,Liefern
+Carrier,Lieferant
+"Tracking Number","Tracking Nummer"
+"Are you sure you want to create shipment?","Sind Sie sicher dass Sie die Lieferung erstellen möchten?"
+"Order List Per Product","Bestellliste pro Produkt"
+"Order #","Bestellung #"
+"Buyer Name","Name des Kunden"
+"Sold on","Verkauf am"
+Download,Herunterladen
+"Shipping Slip","Lieferschein"
+"Items Shipped","Produkte geliefert"
+"Qty Shipped","Menge geliefert"
+"Shipment #%1","Lieferung #%1"
+"Are you sure you want to send shipment email to customer?","Sind Sie sicher dass Sie die Lieferbestätigung senden möchten?"
+"Send Tracking Information","Tracking Informationens senden"
+"Shipment Slip","Lieferschein"
+"Print Shipment","Lieferung drucken"
+"Track this shipment","Diese Lieferung verfolgen"
+Add,Hinzufügen
+"Invoice and Packing Slip Address/VAT/Tax Information","Rechnung und Lieferschein Infos (Adresse/Steuern)"
+"Save Information","Informationen speichern"
+"Save & Duplicate","Speichern und duplizieren"
+"Attribute Set","Attribut Set"
+Description,Beschreibung
+"Short Description","Kurze Beschreibung"
+"SKU Available","SKU verfügbar"
+"SKU Already Exist","SKU bereits belegt"
+"Special Price","Spezialangebot"
+"Special Price From","Spezialangebot von"
+"Special Price To","Spezialangebot bis"
+Stock,Lager
+"Stock Availability","Verfügbarkeit im Lager"
+"In Stock","Auf Lager"
+"Out of Stock","Nicht auf Lager"
+Visibility,Sichtbarkeit
+"Tax Class","Steuerklasse"
+Weight,Gewicht
+"Does this have a weight?","Hat das Produkt Gewicht?"
+"Url Key","Url Schlüssel"
 "Product in Websites","Product in Websites"
 "Meta Title","Meta Title"
-"Allowed Product Qty on Product Purchase for Customer","Allowed Product Qty on Product Purchase for Customer"
-"By default %1 qty will be allowed for customer to add in cart.","By default %1 qty will be allowed for customer to add in cart."
-Warning,Warning
-"Please Complete","Please Complete"
-"Your Profile","Your Profile"
-Continue,Continue
-"Product Type","Product Type"
-"Required Fields","Required Fields"
-"Cross-Sell Products","Cross-Sell Products"
-"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart."
-Enable,Enable
-Disable,Disable
-"Step 2: Attribute Values","Step 2: Attribute Values"
-"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU."
-"Sort Variations","Sort Variations"
-Options,Options
-"Select All","Select All"
-"Deselect All","Deselect All"
-"Remove Attribute","Remove Attribute"
-"Save Option","Save Option"
-"Remove Option","Remove Option"
-"Create New Value","Create New Value"
-"Step 3: Bulk Images, Price, and Quantity","Step 3: Bulk Images, Price, and Quantity"
+"Allowed Product Qty on Product Purchase for Customer","Zugelassene Maximalmange für den Kunden"
+"By default %1 qty will be allowed for customer to add in cart.","Standardmässig ist die erlaubte Menge: %1 ."
+Warning,Warnung
+"Please Complete","Bitte vollständig ausfüllen"
+"Your Profile","Profil ansehen"
+Continue,Fortfahren
+"Product Type","Produkt-Typ"
+"Required Fields","Pflichtfelder"
+"Cross-Sell Products","Cross-Sell Produkte"
+"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Diese ""Impuls-Kauf"" Produkte erscheinen neben dem Warenkorb als Cross-Sell Produkte."
+Enable,Aktivieren
+Disable,Deaktivieren
+"Step 2: Attribute Values","Schritt 2: Attribute"
+"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Wählen Sie Attribute aus, die zum Produkt passen. Jede einzigartige Kombination der Werte erstellt eine neue SKU."
+"Sort Variations","Variationen sortieren"
+Options,Optionen
+"Select All","Alle wählen"
+"Deselect All","Alle abwählen"
+"Remove Attribute","Attribut entfernen"
+"Save Option","Option speichern"
+"Remove Option","Option entfernen"
+"Create New Value","Neuen Wert erstellen"
+"Step 3: Bulk Images, Price, and Quantity","Schritt 3: Mehrere Bilder, Preise und Mengen"
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customize images and price for your new products.","Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customize images and price for your new products."
@@ -765,34 +765,34 @@ Images,Images
 "Apply single set of images to all SKUs","Apply single set of images to all SKUs"
 "Apply unique images by attribute to each SKU","Apply unique images by attribute to each SKU"
 "Skip image uploading at this time","Skip image uploading at this time"
-"Browse Files...","Browse Files..."
-"Browse to find or drag image here","Browse to find or drag image here"
-"Remove image","Remove image"
-"Edit role","Edit role"
-Hidden,Hidden
+"Browse Files...","Dateien durchsuchen..."
+"Browse to find or drag image here","Bild suchen oder hier hinziehen"
+"Remove image","Bild entfernen"
+"Edit role","Rolle bearbeiten"
+Hidden,Ausgeblendet
 "Alt Text","Alt Text"
-Role,Role
-"Hide from Product Page","Hide from Product Page"
-"Select attribute","Select attribute"
-Select,Select
+Role,Rolle
+"Hide from Product Page","Auf Produktseite ausblenden"
+"Select attribute","Attribut wählen"
+Select,Wählen
 "Apply single price to all SKUs","Apply single price to all SKUs"
 "Apply unique prices by attribute to each SKU","Apply unique prices by attribute to each SKU"
 "Skip price at this time","Skip price at this time"
-Quantity,Quantity
+Quantity,Menge
 "Apply single quantity to each SKUs","Apply single quantity to each SKUs"
 "Apply unique quantity by attribute to each SKU","Apply unique quantity by attribute to each SKU"
 "Skip quantity at this time","Skip quantity at this time"
-"Step 1: Select Attributes","Step 1: Select Attributes"
-"Selected Attributes:","Selected Attributes:"
-"Step 4: Summary","Step 4: Summary"
-"Downloadable Information","Downloadable Information"
-"Is this downloadable Product?","Is this downloadable Product?"
+"Step 1: Select Attributes","Schritt 1: Attribut auswählen"
+"Selected Attributes:","Gewählte Attribute:"
+"Step 4: Summary","Schritt 4: Zusammenfassung"
+"Downloadable Information","Herunterladbare Informationen"
+"Is this downloadable Product?","Ist das ein herunterladbares Produkt?"
 Links,Links
-"Add links to your product files here.","Add links to your product files here."
-"[STORE VIEW]","[STORE VIEW]"
+"Add links to your product files here.","Hier links zu Produktdateien hinzufügen."
+"[STORE VIEW]","[SHOP ANSICHT]"
 [GLOBAL],[GLOBAL]
 "Links can be purchased separately","Links can be purchased separately"
-"Sort Order","Sort Order"
+"Sort Order","Reihenfolge sortieren"
 "Attach File or Enter Link","Attach File or Enter Link"
 Sample,Sample
 Shareable,Shareable
@@ -809,18 +809,18 @@ Samples,Samples
 "Configurable products allow customers to choose options (Ex: shirt color).
                 You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color).
                 You need to create a simple product for each configuration (Ex: a product for each color)."
-"Edit Configurations","Edit Configurations"
-"Create Configurations","Create Configurations"
-"Current Variations","Current Variations"
-Image,Image
-Actions,Actions
-"Upload Image","Upload Image"
-"Upload image","Upload image"
-"No Image","No Image"
-"Remove Product","Remove Product"
-"Create Product Configurations","Create Product Configurations"
+"Edit Configurations","Konfiguration bearbeiten"
+"Create Configurations","Konfiguration erstellen"
+"Current Variations","Momentane Variationen"
+Image,Bild
+Actions,Aktionen
+"Upload Image","Bild hochladen"
+"Upload image","Bild hochladen"
+"No Image","Kein Bild"
+"Remove Product","Produkt entfernen"
+"Create Product Configurations","Produktekonfiguration erstellen"
 Url,Url
-"Preview Image","Preview Image"
+"Preview Image","Vorschaubild"
 "Get Video Information","Get Video Information"
 Title:,Title:
 Uploaded:,Uploaded:
@@ -836,16 +836,16 @@ Duration:,Duration:
 "Product List","Product List"
 "Product Status","Product Status"
 "Search by product name","Search by product name"
-"From: ","From: "
-"To: ","To: "
-"Delete Products","Delete Products"
-Type,Type
-"Qty. Confirmed","Qty. Confirmed"
-"Qty. Pending","Qty. Pending"
-"Qty. Sold","Qty. Sold"
-"Earned Amount","Earned Amount"
+"From: ","Von: "
+"To: ","Bis: "
+"Delete Products","Produkte löschen"
+Type,Typ
+"Qty. Confirmed","Bestätigte Menge"
+"Qty. Pending","Ausstehende Menge"
+"Qty. Sold","Verkaufte Menge"
+"Earned Amount","Betrag verdient"
 Websites,Websites
-"No Product Available","No Product Available"
+"No Product Available","Kein Produkt verfügbar"
 "Create Attribute for Configurable Products","Create Attribute for Configurable Products"
 "Save Attribute","Save Attribute"
 "Attribute Code","Attribute Code"
@@ -854,9 +854,9 @@ Websites,Websites
 "Catalog Input Type for Store Owner","Catalog Input Type for Store Owner"
 Dropdown,Dropdown
 "Values Required","Values Required"
-"Related Products","Related Products"
-"Related products are shown to customers in addition to the item the customer is looking at.","Related products are shown to customers in addition to the item the customer is looking at."
-"Up-Sell Products","Up-Sell Products"
+"Related Products","Verwandte Produkte"
+"Related products are shown to customers in addition to the item the customer is looking at.","Verwandte Produkte werden dem Kunden neben dem angezeigten Produkt angezeigt."
+"Up-Sell Products","Up-Sell Produkte"
 "An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at."
 "About Us","Über uns"
 "Average Rating (%1)","Durschnittliche Bewertung (%1)"
@@ -882,31 +882,31 @@ Nickname,Nickname
 "Summary of Your Review","Zusammenfassung Ihrer Bewertung"
 "Submit Review","Bewertung abschicken"
 "You need to purchase item(s) first to make a review.","Sie müssen ein Produkt kaufen um eine Bewertung abzugeben."
-"You cannot add review for your own shop.","You cannot add review for your own shop."
+"You cannot add review for your own shop.","Sie können nicht Ihren eigenen Shop bewerten."
 "Login To Give Feedback","Einloggen um Feedback abzugeben"
-item,item
-items,items
+item,Produkt
+items,Produkte
 "Now Shopping by","Now Shopping by"
 Previous,Previous
-Remove,Remove
-"Remove This Item","Remove This Item"
-"Shop By","Shop By"
+Remove,Entfernen
+"Remove This Item","Dieses Produkt entfernen"
+"Shop By","Kaufen bei"
 "Clear All","Clear All"
 "Shopping Options","Shopping Options"
-Contact,Contact
-"Contact Seller","Contact Seller"
-"Your Name","Your Name"
-"Your Email","Your Email"
-"Please enter desired result","Please enter desired result"
+Contact,Kontakt
+"Contact Seller","Anbieter kontaktieren"
+"Your Name","Ihr Name"
+"Your Email","Ihre Mailadresse"
+"Please enter desired result","Bitte gewünschtes Resultat einfügen"
 " Wrong verification number. "," Wrong verification number. "
-"Your mail has been sent.","Your mail has been sent."
-"View All Reviews","View All Reviews"
-"Recently Added Products","Recently Added Products"
-"View Detail","View Detail"
-"View All %1 Products","View All %1 Products"
-Search,Search
-About,About
-Shipping,Shipping
+"Your mail has been sent.","Email gesendet."
+"View All Reviews","Alle Bewertungen ansehen"
+"Recently Added Products","Neu hinzugefügte Produkte"
+"View Detail","Detailansicht"
+"View All %1 Products","Alle %1 Produkte ansehen"
+Search,Suche
+About,Infos
+Shipping,Versand
 Return,Return
 "Check in Facebook","Check in Facebook"
 "Check in Twitter","Check in Twitter"
