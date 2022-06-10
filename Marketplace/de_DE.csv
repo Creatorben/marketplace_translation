@@ -1,7 +1,7 @@
 "Seller Dashboard","Verkäufer Dashboard"
 January,Januar
 February,Februar
-March,Maerz
+March,März
 April,April
 May,Mai
 June,Juni
@@ -19,17 +19,17 @@ Sale,Verkauf
 "Product disapproved","Produkt abgelehnt"
 ". '</span>'",". '</span>'"
 "Order placed notification","Bestellungsbenachrichtigung"
-"Do You Want To Make This Customer As Seller ?","Willst du diesen Kunden zum Verkaufer machen ?"
+"Do You Want To Make This Customer As Seller ?","Willst du diesen Kunden zum Verkäufer machen ?"
 "Shop Url","Shop URL"
-"Approve Seller","Verkaufer zulassen"
+"Approve Seller","Verkäufer zulassen"
 "Assign Category","Kategorie zuweisen"
 Commission,Kommission
 "Commission Details","Kommissionsdetails"
 "Change Commission","Kommission wechseln"
-"Set Commission In Percentage For This Seller","Kommission in Prozent festlegen fur Verkaufer"
+"Set Commission In Percentage For This Seller","Kommission in Prozent festlegen für Verkäufer"
 "Payment Information","Bezahlungs-Information"
 "Do You Want To Remove This Seller ?","Diesen Verkäufer entfernen ?"
-"Check To Unapprove Seller","Waehlen um Verkeaufer abzulehnen"
+"Check To Unapprove Seller","Wählen um Verkäufer abzulehnen"
 ID,ID
 Created,Erstellt
 Name,Name
@@ -220,7 +220,7 @@ Reason,Grund
 "Order Details of Product : %1","Bestelldetails von Produkt : %1"
 "Can not create shipment as order is in HOLD state","Kann keine Lieferung erstellen wenn die Bestellung im Status HOLD ist"
 "Cannot do shipment for the order separately from invoice.","Kann nicht Lieferung von Bestellung separat von der Rechnung erstellen."
-"Cannot do shipment for the order."Lieferung konnte nicht erstellt werden."
+"Cannot do shipment for the order.","Lieferung konnte nicht erstellt werden."
 "The shipment has been created.","Lieferung wurde erstellt."
 "The shipping label has been created.","Versandatikette wurde erstellt."
 "We can't save the shipment right now.","Wir konnten die Lieferung nicht speichern."
