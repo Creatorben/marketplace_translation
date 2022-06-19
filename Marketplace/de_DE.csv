@@ -1213,24 +1213,24 @@ Text,Text
 "Marketplace Profile Page Fields Hints","Marketplace Profile Page Fields Hints"
 "Enable Profile Hints","Enable Profile Hints"
 "Do You Want To Become Seller/Vendor?","Möchten Sie Anbieter auf Locorum werden?"
-"Profile Twitter id","Profile Twitter id"
-"Profile Facebook id","Profile Facebook id"
-"Profile Instagram id","Profile Instagram id"
-"Profile Google id","Profile Google id"
-"Profile Youtube id","Profile Youtube id"
-"Profile Vimeo id","Profile Vimeo id"
-"Profile Pinterest id","Profile Pinterest id"
-"Profile Contact Number","Profile Contact Number"
-"Profile Background Color","Profile Background Color"
-"Profile Shop Name","Profile Shop Name"
-"Profile Shop Banner Image","Profile Shop Banner Image"
-"Profile Company Logo","Profile Company Logo"
-"Profile Company Locality","Profile Company Locality"
-"Profile Company Description","Profile Company Description"
-"Profile Country","Profile Country"
-"Profile Meta Keywords","Profile Meta Keywords"
-"Profile Meta Description","Profile Meta Description"
-"Profile Payment Information","Profile Payment Information"
+"Profile Twitter id","Profil Twitter id"
+"Profile Facebook id","Profil Facebook id"
+"Profile Instagram id","Profil Instagram id"
+"Profile Google id","Profil Google id"
+"Profile Youtube id","Profil Youtube id"
+"Profile Vimeo id","Profil Vimeo id"
+"Profile Pinterest id","Profil Pinterest id"
+"Profile Contact Number","Telefonnummer"
+"Profile Background Color","Hintergrundfarbe"
+"Profile Shop Name","Profil Shopname"
+"Profile Shop Banner Image","Profil Hintergrundbild"
+"Profile Company Logo","Profil Firmenlogo"
+"Profile Company Locality","Profil Firmenstandort"
+"Profile Company Description","Profil Beschreibung der Firma"
+"Profile Country","Profil Land"
+"Profile Meta Keywords","Profil Meta Keywords"
+"Profile Meta Description","Profil Metabeschreibung"
+"Profile Payment Information","Profil Zahlungsinformationen"
 "Marketplace Transactional Emails","Marketplace Transactional Emails"
 "Seller Approved Template","Seller Approved Template"
 "Seller Request Template","Seller Request Template"
@@ -1261,99 +1261,99 @@ Text,Text
 Width,Width
 "Ratio of Height:Width","Ratio of Height:Width"
 "e.g 1:2 , if you provide invalid ratio then it will set the seller logo ratio 1:2 by default","e.g 1:2 , if you provide invalid ratio then it will set the seller logo ratio 1:2 by default"
-"Seller ID","Seller ID"
-"Commission Rate(%)","Commission Rate(%)"
-"Received Amount","Received Amount"
-"Commission Amount","Commission Amount"
-"Remaining Amount","Remaining Amount"
-"Last Paid Amount","Last Paid Amount"
-Disapprove,Disapprove
-"Are you sure you want to disapprove selected feedback as default customer?","Are you sure you want to disapprove selected feedback as default customer?"
-Approve,Approve
+"Seller ID","Anbieter ID"
+"Commission Rate(%)","Kommissionsrate(%)"
+"Received Amount","Erhaltener Betrag"
+"Commission Amount","Kommissionsbetrag"
+"Remaining Amount","Verbleibender Betrag"
+"Last Paid Amount","Zuletzt ausgezahlter Betrag"
+Disapprove,Ablehnen
+"Are you sure you want to disapprove selected feedback as default customer?","Sind Sie sicher, dass Sie das ausgewählte Feedback von Standard-Kunden ablehnen wollen?"
+Approve,Annehmen
 "Are you sure you want to approve selected customer as feedback?","Are you sure you want to approve selected customer as feedback?"
-"Price Rating(in star)","Price Rating(in star)"
-"Value Rating(in star)","Value Rating(in star)"
-"Quality Rating(in star)","Quality Rating(in star)"
+"Price Rating(in star)","Preis (in Sternen)"
+"Value Rating(in star)","Wert (in Sternen)"
+"Quality Rating(in star)","Qualität (in Sternen)"
 "Feed Summary","Feed Summary"
 "Feed Review","Feed Review"
 Order#,Order#
-"Purchased On","Purchased On"
-"Quantity to be Paid","Quantity to be Paid"
-"Product Total","Product Total"
-"Total Seller Amount","Total Seller Amount"
-"Total Commission","Total Commission"
-"Paid Status","Paid Status"
-"General Information","General Information"
-"Are you sure you want to delete selected items?","Are you sure you want to delete selected items?"
-"Delete items","Delete items"
-"Are you sure you want to disable selected items?","Are you sure you want to disable selected items?"
-"Update Status","Update Status"
-"Are you sure you want to enable selected items?","Are you sure you want to enable selected items?"
-"Updated At","Updated At"
-"Are you sure you want to disapprove selected items?","Are you sure you want to disapprove selected items?"
-"Are you sure you want to approve selected items?","Are you sure you want to approve selected items?"
-"Product ID","Product ID"
-"Store View","Store View"
-Modified,Modified
-Preview,Preview
-"Product View","Product View"
+"Purchased On","Gekauft am"
+"Quantity to be Paid","Menge die bezahlt werden muss"
+"Product Total","Total der Produkte"
+"Total Seller Amount","Betrag des Anbieters"
+"Total Commission","Totale Kommission"
+"Paid Status","Zahlungsstatus"
+"General Information","Generelle Informationen"
+"Are you sure you want to delete selected items?","Sind Sie sicher, dass Sie die gewählten Elemente löschen wollen?"
+"Delete items","Elemente löschen"
+"Are you sure you want to disable selected items?","Sind Sie sicher, dass Sie die gewählten Elemente deaktivieren wollen?"
+"Update Status","Status aktualisieren"
+"Are you sure you want to enable selected items?","Sind Sie sicher, dass Sie die gewählten Elemente aktivieren wollen?"
+"Updated At","Aktualisiert am"
+"Are you sure you want to disapprove selected items?","Sind Sie sicher, dass Sie die gewählten Elemente ablehnen wollen?"
+"Are you sure you want to approve selected items?","Sind Sie sicher, dass Sie die gewählten Elemente annehmen wollen?"
+"Product ID","Produkt ID"
+"Store View","Shopansicht"
+Modified,Bearbeitet
+Preview,Vorschau
+"Product View","Produktansicht"
 "Are you sure you want to disapprove selected seller as default customer?","Are you sure you want to disapprove selected seller as default customer?"
 "Are you sure you want to approve selected customer as seller?","Are you sure you want to approve selected customer as seller?"
 "Are you sure you want to process selected seller request(s)?","Are you sure you want to process selected seller request(s)?"
 "Seller Email","Seller Email"
 "Seller Status","Seller Status"
-Phone,Phone
-ZIP,ZIP
+Phone,Telefonnummer
+ZIP,PLZ
 State/Province,State/Province
-"Web Site","Web Site"
-"Seller Since","Seller Since"
-"Approval Status","Approval Status"
-"Approve Order","Approve Order"
+"Web Site","Website"
+"Seller Since","Anbieter seit"
+"Approval Status","Zulassungsstatus"
+"Approve Order","Bestellung bestätigen"
 "Are you sure you want to approve selected order?","Are you sure you want to approve selected order?"
-Sell,Sell
-"Vendor Dashboard","Vendor Dashboard"
-"Vendor Login","Vendor Login"
-"Marketplace Become Seller","Marketplace Become Seller"
-"My Customer History","My Customer History"
-"Marketplace Edit Seller Profile","Marketplace Edit Seller Profile"
-"New Credit Memo","New Credit Memo"
-"View Memo","View Memo"
-"View All Memos","View All Memos"
-"View Invoice Details","View Invoice Details"
-"Order Details","Order Details"
-"View Shipment Details","View Shipment Details"
-"View Order Details","View Order Details"
-"Marketplace Add New Product","Marketplace Add New Product"
-"Manage Configurable Product's Attribute","Manage Configurable Product's Attribute"
-"Marketplace Edit Product","Marketplace Edit Product"
-"Transactions Details","Transactions Details"
+Sell,Verkaufen
+"Vendor Dashboard","Anbieter Dashboard"
+"Vendor Login","Anbieterlogin"
+"Marketplace Become Seller","Anbieter auf Locorum werden"
+"My Customer History","Meine Kundenhistorie"
+"Marketplace Edit Seller Profile","Anbieterprofil bearbeiten"
+"New Credit Memo","Neue Gutschrift"
+"View Memo","Gutschrift ansehen"
+"View All Memos","Alle Belege ansehen"
+"View Invoice Details","Details der Rechnung ansehen"
+"Order Details","Bestelldetails"
+"View Shipment Details","Lieferdetails ansehen"
+"View Order Details","Bestelldetails ansehen"
+"Marketplace Add New Product","Neues Produkt hinzufügen"
+"Manage Configurable Product's Attribute","Konfigurierbare Produkte, Attribute bearbeiten"
+"Marketplace Edit Product","Produkt bearbeiten"
+"Transactions Details","Transaktionsdetails"
 Thumbnail,Thumbnail
 AttributeSetText,AttributeSetText
 StatusText,StatusText
-"Contact No.","Contact No."
-Gender,Gender
-Address,Address
-"Base Total","Base Total"
-Interval,Interval
-"Total Amount","Total Amount"
-"Total Earning","Total Earning"
-"Total Discount Amount","Total Discount Amount"
-"Purchased Total","Purchased Total"
-Customer,Customer
+"Contact No.","Kontakt Nr."
+Gender,Geschlecht
+Address,Addresse
+"Base Total","Basis Total"
+Interval,Intervall
+"Total Amount","Totaler Betrag"
+"Total Earning","Totale Einkünfte"
+"Total Discount Amount","Totaler Rabattbetrag"
+"Purchased Total","Totale Verkäufe"
+Customer,Kunde
 Details,Details
-Time,Time
-"Print Invoice Slip","Print Invoice Slip"
-"Are you sure you want to print invoice slip of selected order(s)?","Are you sure you want to print invoice slip of selected order(s)?"
-"Print Shipping Slip","Print Shipping Slip"
-"Are you sure you want to print shipping slip of selected order(s)?","Are you sure you want to print shipping slip of selected order(s)?"
-Required,Required
+Time,Zeit
+"Print Invoice Slip","Rechnung drucken"
+"Are you sure you want to print invoice slip of selected order(s)?","Sind Sie sicher, dass Sie die Rechnungen der gewählten Bestellung(en) drucken wollen?"
+"Print Shipping Slip","Lieferschein drucken"
+"Are you sure you want to print shipping slip of selected order(s)?","Sind Sie sicher, dass Sie die Lieferscheine der gewählten Bestellung(en) drucken wollen?"
+Required,Erforderlich
 System,System
-Visible,Visible
-Scope,Scope
-Searchable,Searchable
-Comparable,Comparable
-"Are you sure you want to delete selected products?","Are you sure you want to delete selected products?"
-"Qty Sold","Qty Sold"
-"Qty Confirmed","Qty Confirmed"
-"Qty Pending","Qty Pending"
-Message,Message
+Visible,Sichtbar
+Scope,Umfang
+Searchable,Durchsuchbar
+Comparable,Vergleichbar
+"Are you sure you want to delete selected products?","Sind Sie sicher, dass Sie die gewählten Produkte löschen wollen?"
+"Qty Sold","Verkaufte Menge"
+"Qty Confirmed","Bestätigte Menge"
+"Qty Pending","Ausstehende Menge"
+Message,Mitteilung
