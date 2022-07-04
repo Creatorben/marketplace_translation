@@ -1,0 +1,157 @@
+Store Information,Store Information
+Store,Store
+Image,Image
+Store Contact,Store Contact
+Street,Street
+City,City
+State,State
+Zip,Zip
+Country,Country
+Monday Open Time,Monday Open Time
+Monday Close Time,Monday Close Time
+Tuesday Open Time,Tuesday Open Time
+Tuesday Close Time,Tuesday Close Time
+Wednesday Open Time,Wednesday Open Time
+Wednesday Close Time,Wednesday Close Time
+Thursday Open Time,Thursday Open Time
+Thursday Close Time,Thursday Close Time
+Friday Open Time,Friday Open Time
+Friday Close Time,Friday Close Time
+Saturday Open Time,Saturday Open Time
+Saturday Close Time,Saturday Close Time
+Sunday Open Time,Sunday Open Time
+Sunday Close Time,Sunday Close Time
+Manage Store,Manage Store
+New Store,New Store
+Contact number should be numeric.,Contact number should be numeric.
+Zipcode should be numeric,Zipcode should be numeric
+Invalid image type,Invalid image type
+There was a problem in uploading image,There was a problem in uploading image
+Closing time of store must be greater than opening time.,Closing time of store must be greater than opening time.
+Store saved successfully,Store saved successfully
+Something went wrong,Something went wrong
+Address doesn't exist.,Address doesn't exist.
+Marketplace Order Store Pickup,Marketplace Order Store Pickup
+Store deleted successfully,Store deleted successfully
+Search Results,Search Results
+ Shop Details, Shop Details
+Marketplace Add Store,Marketplace Add Store
+Something went wrong,Something went wrong
+Store deleted successfully,Store deleted successfully
+Marketplace Edit Store,Marketplace Edit Store
+Stores deleted successfully,Stores deleted successfully
+Marketplace View Store,Marketplace View Store
+Requested quantity is not available for selected store. Only %1 quantity is available for pickup from selected store.,Requested quantity is not available for selected store. Only %1 quantity is available for pickup from selected store.
+Edit,Edit
+Stores,Stores
+Ship To Home,Ship To Home
+Quantity,Quantity
+View All Stores,View All Stores
+Add Store,Add Store
+Order Store Pickup,Order Store Pickup
+Select Store For Pickup,Select Store For Pickup
+Stores near you,Stores near you
+Distance,Distance
+Availability,Availability
+Time & Directions,Time & Directions
+Your Store,Your Store
+Make It Your Store,Make It Your Store
+ miles, miles
+In Stock,In Stock
+Out Of Stock,Out Of Stock
+Select,Select
+No Store Available For Pickup,No Store Available For Pickup
+Shipping: ,Shipping: 
+ORDER ID,ORDER ID
+PRODUCT NAME,PRODUCT NAME
+QUANTITY,QUANTITY
+STORE,STORE
+CREATED AT,CREATED AT
+There is no any order for pickup.,There is no any order for pickup.
+Pickup Available Stores,Pickup Available Stores
+Save Store,Save Store
+Store Name,Store Name
+Store Contact Number,Store Contact Number
+Store Image,Store Image
+Status,Status
+Store Address,Store Address
+Street Address,Street Address
+State/Province,State/Province
+Zip/Postal Code,Zip/Postal Code
+Store Hours (In 24 Hour Time Format),Store Hours (In 24 Hour Time Format)
+Monday,Monday
+To,To
+Tuesday,Tuesday
+Wednesday,Wednesday
+Thursday,Thursday
+Friday,Friday
+Saturday,Saturday
+Sunday,Sunday
+Store List,Store List
+Date,Date
+Status,Status
+Search by store name,Search by store name
+From: ,From: 
+To: ,To: 
+All,All
+Enabled,Enabled
+Disabled,Disabled
+Submit,Submit
+Delete,Delete
+STORE ICON,STORE ICON
+STORE NAME,STORE NAME
+STORE ADDRESS,STORE ADDRESS
+STORE TIME,STORE TIME
+STATUS,STATUS
+CREATED AT,CREATED AT
+Action,Action
+Mon,Mon
+Tue,Tue
+Wed,Wed
+Thu,Thu
+Fri,Fri
+Sat,Sat
+Sun,Sun
+Closed,Closed
+Store Locator,Store Locator
+Search Your Store Locations,Search Your Store Locations
+Use Current Location,Use Current Location
+Search within,Search within
+Visit Store Page,Visit Store Page
+mi,mi
+Address,Address
+Phone,Phone
+Store Hours,Store Hours
+Find us,Find us
+get direction starting from,get direction starting from
+"Enter Zip code, city, state, or full address","Enter Zip code, city, state, or full address"
+Store: ,Store: 
+Select your store,Select your store
+Change,Change
+Product is not available in your store,Product is not available in your store
+Check Other Stores,Check Other Stores
+Qty,Qty
+Add to Cart,Add to Cart
+Set your stores for using pickup service.,Set your stores for using pickup service.
+Store Pickup At,Store Pickup At
+Ship to Home,Ship to Home
+Please select another store.,Please select another store.
+All available stores are already added.,All available stores are already added.
+Only secure origins are allowed.,Only secure origins are allowed.
+Unable to retrieve your location.,Unable to retrieve your location.
+Please select Store.,Please select Store.
+Do you want to delete store?,Do you want to delete store?
+Do you want to edit?,Do you want to edit?
+Please select action.,Please select action.
+Do you want to proceed?,Do you want to proceed?
+Stores enabled successfully,Stores enabled successfully
+Stores disabled successfully,Stores disabled successfully
+Something went wrong.,Something went wrong.
+Google Map Api Key , Google Map Api Key
+Search within miles , Search within miles
+Default Search Within 10 miles. , Default Search Within 10 miles.
+Seller Store Pickup Settings , Seller Store Pickup Settings
+Ship to Specific Countries , Ship to Specific Countries
+Ship to Applicable Countries , Ship to Applicable Countries
+Title , Title
+Name , Name
