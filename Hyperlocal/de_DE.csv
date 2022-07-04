@@ -52,161 +52,161 @@ Lists,Listen
 "Item Id Not found.","Item Id nicht gefunden."
 "Address Set","Adresse gespeichert"
 "Fill Correct Address.","Korrekte Adresse einfügen."
-"Edit Outlet %1","Edit Outlet %1"
-"This outlet no longer exists.","This outlet no longer exists."
-"Add New outlet","Add New outlet"
-"Outlet List","Outlet List"
+"Edit Outlet %1","Outlet %1 bearbeiten"
+"This outlet no longer exists.","Dieser Outlet existiert nicht mehr."
+"Add New outlet","Neuen Outlet hinzufügen"
+"Outlet List","Outlet Liste"
 "A total of %1 outlet(s) were disabled.","A total of %1 outlet(s) were disabled."
 "A total of %1 outlet(s) were enabled.","A total of %1 outlet(s) were enabled."
-"Code is already exist!","Code is already exist!"
-"Could not save Outlet.","Could not save Outlet."
-"The Outlet has been saved.","The Outlet has been saved."
-"Could not save Source.","Could not save Source."
-"Please set your location.","Please set your location."
-". ' is invalid'",". ' is invalid'"
-Distance,Distance
-"City, State/Province & Country","City, State/Province & Country"
+"Code is already exist!","Code existiert bereits!"
+"Could not save Outlet.","Outlet konnte nicht gespeichert werden."
+"The Outlet has been saved.","Der Outlet wurde gespeichert."
+"Could not save Source.","Versandherkunft konnte nicht gespeichert werden."
+"Please set your location.","Bitte wählen Sie Ihren Standort."
+". ' is invalid'",". ' ist ungültig'"
+Distance,Distanz
+"City, State/Province & Country","Stadt, Kanton und Land"
 kilometer,kilometer
 Mile,Mile
 "Via Popup","Via Popup"
 "Via Page Redirect","Via Page Redirect"
-Enabled,Enabled
-Disabled,Disabled
-"Please select your location!","Please select your location!"
-"At a time you can add only one store's product in the cart","At a time you can add only one store's product in the cart"
-"At a time you can add only one store's product in the cart. Please update your cart with only one store's product(s).","At a time you can add only one store's product in the cart. Please update your cart with only one store's product(s)."
-"Seller do not provide shipping at your location.","Seller do not provide shipping at your location."
-"store does not provide service on your location.","store does not provide service on your location."
-"Store does not provide delivery to selected address..","Store does not provide delivery to selected address.."
-"Store does not provide delivery to selected address.","Store does not provide delivery to selected address."
-"Please select your address.","Please select your address."
-Edit,Edit
-Admin,Admin
-"Add your ship area","Add your ship area"
-"Enter Location","Enter Location"
-"My Ship Area List","My Ship Area List"
-"Delete Ship Area","Delete Ship Area"
-Action,Action
-Delete,Delete
-"No ship area available","No ship area available"
-Back,Back
-"Add your shipping rate","Add your shipping rate"
-"Download Sample File","Download Sample File"
+Enabled,Aktiviert
+Disabled,Deaktiviert
+"Please select your location!","Bitte wählen Sie Ihren Standort!"
+"At a time you can add only one store's product in the cart","Sie können nur die Produkte eines Anbieters dem Warenkorb hinzufügen"
+"At a time you can add only one store's product in the cart. Please update your cart with only one store's product(s).","Sie können nur die Produkte eines Anbieters dem Warenkorb hinzufügen. Bitte passen Sie Ihren Warenkorb entsprechend an."
+"Seller do not provide shipping at your location.","Der Anbieter liefert nicht an Ihre Adresse."
+"store does not provide service on your location.","Anbieter liefert nicht an Ihre Adresse."
+"Store does not provide delivery to selected address..","Anbieter liefert nicht an die gewählte Adresse.."
+"Store does not provide delivery to selected address.","Anbieter liefert nicht an die gewählte Adresse."
+"Please select your address.","Bitte wählen Sie Ihre Adresse."
+Edit,Bearbeiten
+Admin,Locorum
+"Add your ship area","Fügen Sie Ihr Liefergebiet hinzu"
+"Enter Location","Standort eingeben"
+"My Ship Area List","Meine Liefergebiete"
+"Delete Ship Area","Liefergebiet löschen"
+Action,Aktion
+Delete,Löschen
+"No ship area available","Kein Liefergebiet verfügbar"
+Back,Zurück
+"Add your shipping rate","Fügen Sie Ihre Lieferkosten hinzu"
+"Download Sample File","Beispieldatei herunterladen"
 "Upload CSV ","Upload CSV "
-"My Ship Rate List","My Ship Rate List"
-"Delete Ship Rate","Delete Ship Rate"
-Weight,Weight
-Cost,Cost
-"From :","From :"
-"To :","To :"
-"No ship rate available","No ship rate available"
+"My Ship Rate List","Meine Lieferkosten"
+"Delete Ship Rate","Lieferkosten löschen"
+Weight,Gewicht
+Cost,Kosten
+"From :","Von :"
+"To :","Bis :"
+"No ship rate available","Keine Lieferkosten verfügbar"
 Hyperlocal,Hyperlocal
-"Seller Origin","Seller Origin"
-"Manage Outlet","Manage Outlet"
-"Add your shipping origin address","Add your shipping origin address"
+"Seller Origin","Versandherkunft des Anbieters"
+"Manage Outlet","Outlet bearbeiten"
+"Add your shipping origin address","Fügen Sie Ihre Versandherkunft hinzu"
 "Radius (%1)","Radius (%1)"
 "Search Stores","Anbieter in Ihrer Nähe suchen"
 "Search for your location and
                     we'll get a complete list of available stores for you","Geben Sie Ihren Standort an und wir zeigen Ihnen alle Anbieter in Ihrer Umgebung"
 "Find Stores","Anbieter finden"
-"Your Addresses","Your Addresses"
-"You can select one of the address used before. Just click the button to set the location again.","You can select one of the address used before. Just click the button to set the location again."
-"Sold By","Sold By"
-"Visit Shop","Visit Shop"
-"Search Product","Search Product"
-Search,Search
+"Your Addresses","Ihre Adressen"
+"You can select one of the address used before. Just click the button to set the location again.","Sie können eine bereits gebrauchte Adresse wählen. Klicken Sie einfach erneut den Button für die Standortwahl."
+"Sold By","Verkauft von"
+"Visit Shop","Anbieter besuchen"
+"Search Product","Produkt suchen"
+Search,Suchen
 Menu,Menu
 "Outlet Information","Outlet Information"
 Name,Name
 Code,Code
-"Is Enabled","Is Enabled"
-Enable,Enable
-Disable,Disable
-Description,Description
-"Enter Address","Enter Address"
-"Contact Info","Contact Info"
-"Contact Name","Contact Name"
+"Is Enabled","ist aktiviert"
+Enable,Aktivieren
+Disable,Daktivieren
+Description,Beschreibung
+"Enter Address","Adresse eingeben"
+"Contact Info","Kontakt Infos"
+"Contact Name","Kontakt Name"
 Email,Email
-Phone,Phone
+Phone,Telefon
 Fax,Fax
-"Address Data","Address Data"
-"Select Country","Select Country"
-State/Province,State/Province
-Street,Street
-Postcode,Postcode
-"To Become Seller Please Contact to Admin.","To Become Seller Please Contact to Admin."
-"Add New Outlet","Add New Outlet"
-"Recently Added Products","Recently Added Products"
-"View Detail","View Detail"
-"View Collection","View Collection"
-"View All %1 Products","View All %1 Products"
-About,About
-Shipping,Shipping
-Return,Return
-"Privacy Policy","Privacy Policy"
-"Check in Facebook","Check in Facebook"
-"Check in Twitter","Check in Twitter"
-"Check in Google+","Check in Google+"
-"Check in Vimeo","Check in Vimeo"
-"Check in Youtube","Check in Youtube"
-"Check in Instagram","Check in Instagram"
-"Check in Pinterest","Check in Pinterest"
-"Make a Review","Make a Review"
-Rating,Rating
-Orders,Orders
-Products,Products
-Close,Close
-"Your Name","Your Name"
-"Your Email","Your Email"
-"Choose an appropriate reason to flag","Choose an appropriate reason to flag"
+"Address Data","Adressdaten"
+"Select Country","Land wählen"
+State/Province,Kanton
+Street,Strasse
+Postcode,Postleitzahl
+"To Become Seller Please Contact to Admin.","Um Anbieter zu werden, bitte Locorum kontaktieren."
+"Add New Outlet","Neuen Outlet hinzufügen"
+"Recently Added Products","Neu hinzugefügte Produkte"
+"View Detail","Detailansicht"
+"View Collection","Angebot ansehen"
+"View All %1 Products","Alle %1 Produkt/e ansehen"
+About,Über
+Shipping,Versand
+Return,Rückgabe
+"Privacy Policy","Datenschutzrichtlinie"
+"Check in Facebook","Auf Facebook finden"
+"Check in Twitter","Auf Twitter finden"
+"Check in Google+","Auf Google+ finden"
+"Check in Vimeo","Auf Vimeo finden"
+"Check in Youtube","Auf Youtube finden"
+"Check in Instagram","Auf Instagram finden"
+"Check in Pinterest","Auf Pinterest finden"
+"Make a Review","Eine Bewertung schreiben"
+Rating,Bewertung
+Orders,Bestellungen
+Products,Produkte
+Close,Schliessen
+"Your Name","Ihr Name"
+"Your Email","Ihre Email"
+"Choose an appropriate reason to flag","Wählen Sie einen entsprechenden Grund für die Meldung"
 Reset,Reset
-Submit,Submit
-"Thank you.","Thank you."
-"Your report against ","Your report against "
-" has been submitted."," has been submitted."
-"We will re-verify the seller Information and see if it violates any of our policy or selling guidelines.","We will re-verify the seller Information and see if it violates any of our policy or selling guidelines."
+Submit,Abschicken
+"Thank you.","Vielen Dank."
+"Your report against ","Ihre Meldung gegen "
+" has been submitted."," wurde eingereicht."
+"We will re-verify the seller Information and see if it violates any of our policy or selling guidelines.","Wir werden prüfen, ob die Informationen in Einklang mit unseren Verkaufsrichtlinien sind."
 "Popular Stores","Anbieter in Ihrer Umgebung"
 "We have got you the top stores in your selected location.","Hier finden Sie lokale Anbieter, bei denen Sie Produkte aus Ihrer Umgebung abholen und liefern lassen können! Bestellen Sie Gemüse, Milch, Fleisch und vieles mehr direkt aus Ihrer Umgebung."
-"No Store Available","No Store Available"
-"View Store","View Store"
-"View Store's Product","View Store's Product"
-"View All","View All"
-"Report Seller","Report Seller"
-"On location address change cart will empty.","On location address change cart will empty."
-"You are sure to delete ship area.","You are sure to delete ship area."
-"You are sure to delete selected ship area.","You are sure to delete selected ship area."
-"Please select record for delete.","Please select record for delete."
-"View Product","View Product"
-Webkul,Webkul
-"Hyperlocal Marketplace","Hyperlocal Marketplace"
-"General Settings","General Settings"
+"No Store Available","Kein Anbieter verfügbar"
+"View Store","Anbieter anzeigen"
+"View Store's Product","Produkte des Anbieters ansehen"
+"View All","Alle anzeigen"
+"Report Seller","Anbieter melden"
+"On location address change cart will empty.","Bei Wechsel des Standorts wird der Einkaufswagen geleert."
+"You are sure to delete ship area.","Sind Sie sicher, dass Sie das Liefergebiet löschen wollen?"
+"You are sure to delete selected ship area.","Sind Sie sicher, dass Sie das gewählte Liefergebiet löschen wollen?"
+"Please select record for delete.","Bitte Eintrag zum löschen wählen."
+"View Product","Produkt ansehen"
+Webkul,Locorum
+"Hyperlocal Marketplace","Locorum Marketplace"
+"General Settings","Generelle Einstellungen"
 "Single Seller Checkout","Single Seller Checkout"
 "Google API Key","Google API Key"
 "Heading For Location Popup Window","Heading For Location Popup Window"
 "Radius Unit","Radius Unit"
 "Set Address Change Method","Set Address Change Method"
 "Searching Templates","Searching Templates"
-"Background Banner Image","Background Banner Image"
+"Background Banner Image","Hintergrund Banner Farbe"
 "Button Color","Button Color"
 "Hyper Local shipping","Hyper Local shipping"
 "Enabled for Checkout","Enabled for Checkout"
-Title,Title
+Title,Titel
 "Show Method if Not Applicable","Show Method if Not Applicable"
-"Add New Ship Area","Add New Ship Area"
-"Do you want to delete selected ship area record?","Do you want to delete selected ship area record?"
-Seller,Seller
-"Add New Ship Rate","Add New Ship Rate"
-"Do you want to delete selected ship rate record?","Do you want to delete selected ship rate record?"
-"Distance From","Distance From"
-"Distance To","Distance To"
-"Weight From","Weight From"
-"Weight To","Weight To"
-"Shipping Cost","Shipping Cost"
-"Change Address","Change Address"
-"Disable Outlet","Disable Outlet"
-"Are you sure you wan't to disable selected Outlet?","Are you sure you wan't to disable selected Outlet?"
-"Enable Outlet","Enable Outlet"
-"Are you sure you wan't to enable selected Outlet?","Are you sure you wan't to enable selected Outlet?"
+"Add New Ship Area","Neues Liefergebiet hinzufügen"
+"Do you want to delete selected ship area record?","Sind Sie sicher, dass Sie das gewählte Liefergebiet löschen wollen?"
+Seller,Anbieter
+"Add New Ship Rate","Neue Lieferkosten hinzufügen"
+"Do you want to delete selected ship rate record?","Sind Sie sicher, dass Sie die gewählten Lieferkosten löschen wollen?"
+"Distance From","Distanz von"
+"Distance To","Distanz bis"
+"Weight From","Gewicht von"
+"Weight To","Gewicht bis"
+"Shipping Cost","Lieferkosten"
+"Change Address","Adresse wechseln"
+"Disable Outlet","Outlet deaktivieren"
+"Are you sure you wan't to disable selected Outlet?","Sind Sie sicher dass Sie den gewählten Outlet deaktivieren wollen?"
+"Enable Outlet","Outlet aktivieren"
+"Are you sure you wan't to enable selected Outlet?","Sind Sie sicher dass Sie den gewählten Outlet aktivieren wollen?"
 ID,ID
-"Outlet Name","Outlet Name"
+"Outlet Name","Name des Outlets"
 Status,Status
