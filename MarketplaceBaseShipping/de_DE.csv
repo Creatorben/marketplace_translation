@@ -1,0 +1,69 @@
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Sie versuchen eine Produktmenge hinzuzufügen, die nicht mit der gelieferten Menge übereinstimmt."
+"Products should be added to package(s)","Produkte sollten zu Paket(en) hinzugefügt werden"
+"The value that you entered is not valid.","Der Wert den Sie eingegeben haben ist nicht gültig."
+"You created the shipping label.","Sie haben das Versandetikett erstellt."
+"An error occurred while creating shipping label.","Fehler beim Erstellen des Versandetiketts."
+"We can't save the shipment right now.","Die Lieferung kann momentan nicht gesichert werden."
+"""Shipment Document Validation Error(s):\n"" .","""Shipment Document Validation Error(s):\n"" ."
+"The shipment has been created.","Lieferung wurde erstellt."
+"Cannot save shipment.","Lieferung kann nicht gesichert werden."
+"You saved the shipping origin address.","Sie haben die Versandherkunftsadresse gespeichert."
+"We can't save the origin address.","Versandherkunftsadresse konnte nicht gespeichert werden."
+"Origin Address","Versandherkunft"
+Pounds,Pfund
+Kilograms,Kilogramm
+Inches,Zoll
+Centimeters,Zentimeter
+inch,zoll
+cm,cm
+Height,Höhe
+Depth,Tiefe
+Width,Breite
+Regular,Regulär
+Specific,Spezifisch
+"Shipping labels is not available.","Versandetikett ist nicht verfügbar."
+"Response info is not exist.","Antwortinfo existiert nicht."
+"Invalid carrier: %1","Ungültiger Versanddienstleister: %1"
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Nicht genug Informationen vorhanden zur Erstellung des Versandetiketts. Bitte nochmals überprüfen, ob Sie alles ausgefüllt haben."
+"* Required Fields","* Benötigte Felder"
+"Shipping Origin Address","Versandherkunftsadresse"
+Save,Speichern
+"Street Address","Adresse"
+"Street Address %1","Adresse %1"
+City,Stadt
+State/Province,Kanton
+"Please select a region, state or province.","Bitte Region oder Kanton wählen."
+"Zip/Postal Code","Postleitzahl"
+Country,Land
+"Shipping Setting","Versandeinstellung"
+"Select All","Alle wählen"
+"Product Name","Produktname"
+Weight,Gewicht
+"Customs Value","Zollwert"
+"Qty Ordered","Menge Bestellt"
+Qty,Menge
+Delete,Löschen
+Package,Paket
+Type,Typ
+"Total Weight","Total Gewicht"
+Size,Grösse
+Length,Länge
+"Signature Confirmation","Unterschriftsbestätigung"
+Contents,Inhalt
+Girth,Umfang
+"Items in the Package","Artikel im Paket"
+Product,Produkt
+Packages,Pakete
+"Create Shipping Label","Versandetikett erstellen"
+"Create Shipping Label...","Versandetikett erstellen..."
+"Download Shipping Label","Versandetikett herunterladen"
+"Create Packages","Paket erstellen"
+Cancel,Abbrechen
+"Add Package","Paket hinzufügen"
+"Add Selected Product(s) to Package","Ausgewählte Produkte zum Paket hinzufügen"
+"Add Products to Package","Produkte zu Paket hinzufügen"
+"USPS domestic shipments don't use package types.","USPS domestic shipments don't use package types."
+in,in
+lb,lb
+kg,kg
+"Delete Package","Paket löschen"
