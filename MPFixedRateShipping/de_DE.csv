@@ -1,0 +1,25 @@
+"Prices can't be negative.","Preis kann nicht negativ sein."
+"Fixed Rate Shipping details saved successfully.","Fixpreisversand erfolgreich gespeichert."
+"Manage Fixed Rate Shipping","Fixpreisversand verwalten"
+Vendor,Anbieter
+Product,Produkt
+"Fixed Rate Shipping","Fixpreisversand"
+"* Required Fields","* Benötigte Felder"
+"Fixed Rate Shipping Details","Fixpreisversand Details"
+Save,Speichern
+"Shipping Cost","Versandkosten"
+"Allow Free Shipping From Amount","Gratis Versand ab Betrag"
+"Webkul Marketplace Fixed Rate Shipping","Locorum Fixpreisversand"
+"Enabled for Checkout","Für den Warenkorb freigeschaltet"
+Title,Titel
+"Method Title","Methoden Titel"
+"Default Shipping Price","Default Versandpreis"
+"Default Free Shipping From Amount","Default Versandpreis ab Betrag"
+"Ship to Applicable Countries","Lieferung an zutreffende Länder"
+"All Allowed Countries","Alle erlaubten Länder"
+"Ship to Specific Countries","Versand an spezifische Länder"
+"Specific Countries","Spezifische Länder"
+"Shipping Based On","Lieferung basierend auf"
+"Displayed Error Message","Displayed Error Message"
+"Show Method if Not Applicable","Show Method if Not Applicable"
+Debug,Debug
