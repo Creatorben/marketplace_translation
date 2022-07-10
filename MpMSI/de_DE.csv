@@ -1,0 +1,128 @@
+"Step 3: Bulk Images, Price, and Quantity","Schritt 3: Mehrere Bilder, Preise und Mengen"
+"Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
+        new products will be created. Use this step to customize images and price for your new products.","Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
+        new products will be created. Use this step to customize images and price for your new products."
+Images,Bilder
+"Apply single set of images to all SKUs","Ein Set Bilder für mehrere SKU's verwenden"
+"Apply unique images by attribute to each SKU","Separate, einzigartige Bilder für jede SKU verwenden"
+"Skip image uploading at this time","Bilderupload momentan noch überspringen"
+"Browse Files...","Dateien durchsuchen..."
+"Browse to find or drag image here","Durchsuchen oder Bild hierhin ziehen"
+"Remove image","Bild entfernen"
+"Edit role","Rolle bearbeiten"
+Hidden,Versteckt
+"Alt Text","Alt Text"
+Role,Rolle
+"Hide from Product Page","Von Produkteseite verstecken"
+"Select attribute","Attribut auswählen"
+Select,Auswählen
+Price,Preis
+"Apply single price to all SKUs","Gleicher Preis für mehrere SKU's verwenden"
+"Apply unique prices by attribute to each SKU","Separate Preise für einzelne SKU verwenden"
+"Skip price at this time","Preis momentan noch überspringen"
+"Apply single quantity to each SKUs","Einzelne Mengen für jede SKUs"
+"Apply unique quantity by attribute to each SKU","Separater, einzigartige Menge für jede SKU"
+"Skip quantity at this time","Menge momentan noch überspringen"
+"Step 4: Summary","Schritt 4: Zusammenfassung"
+"Current Variations","Aktuelle Variationen"
+Image,Bild
+Name,Name
+SKU,SKU
+Weight,Gewicht
+Actions,Aktionen
+Quantity,Menge
+"Upload Image","Bild hochladen"
+"Upload image","Bild hochladen"
+"No Image","Kein Bild"
+"Remove Product","Produkt entfernen"
+"Create Product Configurations","Produktekonfigurationen erstellen"
+"Choose source For quantity deduction","Quelle für Mengenabzug auswählen"
+"Select Source","Quelle auswählen"
+"Shipment #%1","Lieferung #%1"
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">Bestelldatum:</span> %1"
+"Are you sure you want to send shipment email to customer?","Wollen Sie die Lieferbestätigung an den Kunden senden?"
+"Send Email To Customer","Email an Kunden senden"
+"Send Tracking Information","Tracking Information senden"
+"Shipment Slip","Lieferschein"
+"Print Shipment","Lieferung drucken"
+"Order Information","Bestellinformationen"
+"Order # %1","Bestellung # %1"
+"Order Status","Bestellstatus"
+"Order Date","Bestelldatum"
+"Buyer Information","Käufer Information"
+"Customer Name","Name des Kunden"
+Email,Email
+"Address Information","Addressinformation"
+"Billing Address","Rechnungsandresse"
+"Shipping Address","Lieferadresse"
+"Payment & Shipping Method","Zahlung und Lieferungsdetails"
+"Payment Information","Zahlungsdetails"
+"Shipping and Tracking Information","Lieferung und Tracking"
+"No shipping information available","Keine Lieferinfos verfügbar"
+"Track this shipment","Diese Lieferung verfolgen"
+Carrier,Dienstleister
+Title,Titel
+Number,Nummer
+Action,Aktion
+Add,Hinzufügen
+Delete,Löschen
+Inventory,Inventar
+Source,Quelle
+"Items Shipped","Menge geliefert"
+"Back To My Orders","Zurück zu meinen Bestellungen"
+"To Become Seller Please Contact to Admin.","Um Verkäufer zu werden, bitte Locorum kontaktieren."
+Approved,Zugelassen
+Pending,Ausstehend
+Enabled,Aktiviert
+Disabled,Deaktiviert
+"Product List","Produktliste"
+"Product Name","Produktname"
+Date,Datum
+"Product Status","Produktstatus"
+"Search by product name","Suche nach Produktname"
+"From: ","Von: "
+"To: ","Bis: "
+All,Alle
+Submit,Bestätigen
+"Delete Products","Produkte löschen"
+Product,Produkt
+Type,Typ
+Status,Status
+"Quantity Per Source","Menge pro Quelle"
+"Salable Quantity","Verkaufbare Menge"
+"Qty. Confirmed","Bestätigte Menge"
+"Qty. Pending","Ausstehende Menge"
+"Qty. Sold","Verkaufte Menge"
+"Earned Amount","Erlös"
+Edit,Bearbeiten
+"No Product Available","Kein Produkt verfügbar"
+Back,Zurück
+"Source Code","Code der Quelle"
+" Name"," Name"
+"Source Status","Status der Quelle"
+"Source Item Status","Quellprodukt Status"
+" Qty"," Menge"
+Unassign,Entfernen
+" Out of Stock"," Nicht auf Lager"
+" In Stock"," Auf Lager"
+Remove,Entfernen
+Code,Code
+"We couldn't find any records","Wir konnten keine Einträge finden"
+ Qty, Menge
+"New Product Review","Neue Produktrezension"
+"Here are the products you're about to create.","Hier sind die Produkte, die Sie gerade erstellen."
+"Associated Products","Verwandte Produkte"
+"You created these products for this configuration.","Sie haben diese Produkte für diese Konfiguration erstellt."
+"Disassociated Products","Nichtverwandte Produkte"
+"These products are not associated.","Diese Produkte sind nicht verwandt."
+"Disable Product","Produkt deaktivieren"
+"Enable Product","Produkt aktivieren"
+"Assign Stock","Lagermenge zuordnen"
+Assign Sources,Quellen zuordnen
+Enable,Aktivieren
+Disable,Deaktivieren
+"Please, select attribute for the section ","Bitte Attribut für diese Sektion auswählen "
+"Please fill in the values for the section ","Bitte füllen Sie hier die entsprechenden Werte ein "
+"Please, fill correct values","Bitte die korrekten Werte einfüllen"
+"Please fill-in correct values.","Bitte korrekte Werte einfüllen."
+"Done","Fertig"
