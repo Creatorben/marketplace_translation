@@ -1,152 +1,152 @@
-Store Information,Store Information
-Store,Store
-Image,Image
-Store Contact,Store Contact
-Street,Street
-City,City
-State,State
-Zip,Zip
-Country,Country
-Monday Open Time,Monday Open Time
-Monday Close Time,Monday Close Time
-Tuesday Open Time,Tuesday Open Time
-Tuesday Close Time,Tuesday Close Time
-Wednesday Open Time,Wednesday Open Time
-Wednesday Close Time,Wednesday Close Time
-Thursday Open Time,Thursday Open Time
-Thursday Close Time,Thursday Close Time
-Friday Open Time,Friday Open Time
-Friday Close Time,Friday Close Time
-Saturday Open Time,Saturday Open Time
-Saturday Close Time,Saturday Close Time
-Sunday Open Time,Sunday Open Time
-Sunday Close Time,Sunday Close Time
-Manage Store,Manage Store
-New Store,New Store
-Contact number should be numeric.,Contact number should be numeric.
-Zipcode should be numeric,Zipcode should be numeric
-Invalid image type,Invalid image type
-There was a problem in uploading image,There was a problem in uploading image
-Closing time of store must be greater than opening time.,Closing time of store must be greater than opening time.
-Store saved successfully,Store saved successfully
-Something went wrong,Something went wrong
-Address doesn't exist.,Address doesn't exist.
-Marketplace Order Store Pickup,Marketplace Order Store Pickup
-Store deleted successfully,Store deleted successfully
-Search Results,Search Results
+Store Information,Shop Informationen
+Store,Shop
+Image,Bild
+Store Contact,Shop Kontakt
+Street,Strasse
+City,Stadt
+State,Kanton
+Zip,PLZ
+Country,Land
+Monday Open Time,Öffnungszeit Montag
+Monday Close Time,Schliesszeit Montag
+Tuesday Open Time,Öffnungszeit Dienstag
+Tuesday Close Time,Schliesszeit Dienstag
+Wednesday Open Time,Öffnungszeit Mittwoch
+Wednesday Close Time,Schliesszeit Mittwoch
+Thursday Open Time,Öffnungszeit Donnerstag
+Thursday Close Time,Schliesszeit Donnerstag
+Friday Open Time,Öffnungszeit Freitag
+Friday Close Time,Schliesszeit Freitag
+Saturday Open Time,Öffnungszeit Samstag
+Saturday Close Time,Schliesszeit Samstag
+Sunday Open Time,Öffnungszeit Sonntag
+Sunday Close Time,Schliesszeit Sonntag
+Manage Store,Shop verwalten
+New Store,Neuer Shop
+Contact number should be numeric.,Kontaktnummer muss numerisch sein.
+Zipcode should be numeric,Postleitzahl muss eine Nummer sein
+Invalid image type,Ungültiger Bildtyp
+There was a problem in uploading image,Ein Problem beim Bildupload ist aufgetreten
+Closing time of store must be greater than opening time.,Schliesszeit muss nach Öffnungszeit liegen.
+Store saved successfully,Shop erfolgreich gespeichert
+Something went wrong,Etwas ist schiefgelaufen
+Address doesn't exist.,Adresse existiert nicht.
+Marketplace Order Store Pickup,Markplatz Abholung vor Ort
+Store deleted successfully,Shop erfoglreich gelöscht
+Search Results,Resultate durchsuchen
  Shop Details, Shop Details
-Marketplace Add Store,Marketplace Add Store
-Something went wrong,Something went wrong
-Store deleted successfully,Store deleted successfully
-Marketplace Edit Store,Marketplace Edit Store
-Stores deleted successfully,Stores deleted successfully
-Marketplace View Store,Marketplace View Store
-Requested quantity is not available for selected store. Only %1 quantity is available for pickup from selected store.,Requested quantity is not available for selected store. Only %1 quantity is available for pickup from selected store.
-Edit,Edit
-Stores,Stores
-Ship To Home,Ship To Home
-Quantity,Quantity
-View All Stores,View All Stores
-Add Store,Add Store
+Marketplace Add Store,Marktplatz Shop hinzufügen
+Something went wrong,Etwas ist schiefgelaufen
+Store deleted successfully,Shop erfolgreich gelöscht
+Marketplace Edit Store,Marktplatz Shop anpassen
+Stores deleted successfully,Shops erfolgreich gelöscht
+Marketplace View Store,Marktplatz Shop ansehen
+Requested quantity is not available for selected store. Only %1 quantity is available for pickup from selected store.,Gewünschte Menge ist beim Anbieter nicht verfügabr. Nur %1 ist zur Abholung vor Ort verfügbar.
+Edit,Anpassen
+Stores,Shops
+Ship To Home,Lieferung
+Quantity,Menge
+View All Stores,Alle Shops ansehen
+Add Store,Shop hinzufügen
 Order Store Pickup,Order Store Pickup
-Select Store For Pickup,Select Store For Pickup
-Stores near you,Stores near you
-Distance,Distance
-Availability,Availability
-Time & Directions,Time & Directions
-Your Store,Your Store
+Select Store For Pickup,Shop zur Abholung auswählen
+Stores near you,Anbieter in Ihrer Nähe
+Distance,Distanz
+Availability,Verfügbarkeit
+Time & Directions,Fahrzeit und Anfahrt
+Your Store,Ihr gewählter Shop
 Make It Your Store,Diesen Shop auswählen
- miles, miles
-In Stock,In Stock
+ miles, Meilen
+In Stock,Auf Lager
 Out Of Stock,Sie haben bereits Produkte des folgenden Shops im Warenkorb
-Select,Select
-No Store Available For Pickup,No Store Available For Pickup
-Shipping: ,Shipping: 
-ORDER ID,ORDER ID
-PRODUCT NAME,PRODUCT NAME
-QUANTITY,QUANTITY
-STORE,STORE
-CREATED AT,CREATED AT
-There is no any order for pickup.,There is no any order for pickup.
-Pickup Available Stores,Pickup Available Stores
-Save Store,Save Store
-Store Name,Store Name
-Store Contact Number,Store Contact Number
-Store Image,Store Image
+Select,Anwählen
+No Store Available For Pickup,Kein Shop zur Abholung verfügbar
+Shipping: ,Lieferung: 
+ORDER ID,BESTELL ID
+PRODUCT NAME,PRODUKT NAME
+QUANTITY,MENGE
+STORE,SHOP
+CREATED AT,ERSTELLT AM
+There is no any order for pickup.,Es gibt keine Bestellung zur Abholung.
+Pickup Available Stores,Shops die Abholung anbieten
+Save Store,Shop speichern
+Store Name,Shop Name
+Store Contact Number,Shop Kontaktnummer
+Store Image,Shop Bilder
 Status,Status
-Store Address,Store Address
-Street Address,Street Address
-State/Province,State/Province
-Zip/Postal Code,Zip/Postal Code
-Store Hours (In 24 Hour Time Format),Store Hours (In 24 Hour Time Format)
-Monday,Monday
-To,To
-Tuesday,Tuesday
-Wednesday,Wednesday
-Thursday,Thursday
-Friday,Friday
-Saturday,Saturday
-Sunday,Sunday
-Store List,Store List
-Date,Date
+Store Address,Shop Adresse
+Street Address,Strassenadresse
+State/Province,Kanton
+Zip/Postal Code,PLZ
+Store Hours (In 24 Hour Time Format),Öffnungszeiten (Im 24h Format)
+Monday,Montag
+To,Bis
+Tuesday,Dienstag
+Wednesday,Mittwoch
+Thursday,Donnerstag
+Friday,Freitag
+Saturday,Samstag
+Sunday,Sonntag
+Store List,Shop Liste
+Date,Datum
 Status,Status
-Search by store name,Search by store name
-From: ,From: 
-To: ,To: 
-All,All
-Enabled,Enabled
-Disabled,Disabled
-Submit,Submit
-Delete,Delete
+Search by store name,Nach Shop Namen suchen
+From: ,Von: 
+To: ,Bis: 
+All,Alle
+Enabled,Aktiviert
+Disabled,Deaktiviert
+Submit,Einsenden
+Delete,Entfernen
 STORE ICON,STORE ICON
 STORE NAME,STORE NAME
 STORE ADDRESS,STORE ADDRESS
 STORE TIME,STORE TIME
 STATUS,STATUS
-CREATED AT,CREATED AT
-Action,Action
-Mon,Mon
-Tue,Tue
-Wed,Wed
-Thu,Thu
-Fri,Fri
-Sat,Sat
-Sun,Sun
-Closed,Closed
-Store Locator,Store Locator
-Search Your Store Locations,Search Your Store Locations
-Use Current Location,Use Current Location
-Search within,Search within
-Visit Store Page,Visit Store Page
+CREATED AT,ERSTELLT AM
+Action,Aktion
+Mon,Mo
+Tue,Di
+Wed,Mi
+Thu,Do
+Fri,Fr
+Sat,Sa
+Sun,So
+Closed,Geschlossen
+Store Locator,Shop Locator
+Search Your Store Locations,Ihre Shop Standorte durchsuchen
+Use Current Location,Momentanen Standort verwenden
+Search within,Im Umkreis suchen von
+Visit Store Page,Shopseite besuchen
 mi,mi
-Address,Address
-Phone,Phone
-Store Hours,Store Hours
-Find us,Find us
-get direction starting from,get direction starting from
-"Enter Zip code, city, state, or full address","Enter Zip code, city, state, or full address"
-Store: ,Store: 
-Select your store,Select your store
-Change,Change
-Product is not available in your store,Product is not available in your store
+Address,Adresse
+Phone,Telefon
+Store Hours,Öffnungszeiten
+Find us,Finde uns
+get direction starting from,Fahranweisungen von folgender Adresse aus
+"Enter Zip code, city, state, or full address","PLZ, Stadt, Kanton oder volle Adresse"
+Store: ,Shop: 
+Select your store,Ihren Shop wählen
+Change,Wechseln
+Product is not available in your store,Produkt ist in Ihrem Shop nicht verfügbar
 Check Other Stores,Weitere Shops in Ihrer Nähe
-Qty,Qty
-Add to Cart,Add to Cart
+Qty,Menge
+Add to Cart,Zum Warenkorb hinzufügen
 Set your stores for using pickup service.,Sie haben noch von keinem Shop Produkte im Warenkorb.
-Store Pickup At,Store Pickup At
-Ship to Home,Ship to Home
-Please select another store.,Please select another store.
-All available stores are already added.,All available stores are already added.
-Only secure origins are allowed.,Only secure origins are allowed.
-Unable to retrieve your location.,Unable to retrieve your location.
-Please select Store.,Please select Store.
-Do you want to delete store?,Do you want to delete store?
-Do you want to edit?,Do you want to edit?
-Please select action.,Please select action.
-Do you want to proceed?,Do you want to proceed?
-Stores enabled successfully,Stores enabled successfully
-Stores disabled successfully,Stores disabled successfully
-Something went wrong.,Something went wrong.
+Store Pickup At,Shop Abholung von
+Ship to Home,Nach-Hause-Liefern
+Please select another store.,Bitte einen anderen Shop wählen.
+All available stores are already added.,Alle möglichen Shops sind schon hinzugefügt.
+Only secure origins are allowed.,Nur sichere Quellen sind erlaubt.
+Unable to retrieve your location.,Standort abrufen war nicht möglich.
+Please select Store.,Bitte Shop auswählen.
+Do you want to delete store?,Wollen Sie den Shop löschen?
+Do you want to edit?,Wollen Sie bearbeiten?
+Please select action.,Bitte Aktion auswählen.
+Do you want to proceed?,Wollen Sie fortsetzen?
+Stores enabled successfully,Shops erfolgreich aktiviert
+Stores disabled successfully,Shops erfolgreich deaktiviert
+Something went wrong.,Etwas ist schiefgelaufen.
 Google Map Api Key , Google Map Api Key
 Search within miles , Search within miles
 Default Search Within 10 miles. , Default Search Within 10 miles.
