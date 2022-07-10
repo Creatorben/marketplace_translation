@@ -1,32 +1,32 @@
-"Shipping details saved successfully.","Shipping details saved successfully."
-"Can not save the records.","Can not save the records."
+"Shipping details saved successfully.","Lieferdetails erfolgreich gespeichert."
+"Can not save the records.","Einträge konnten nicht gespeichert werden."
 "Choose Your Allowed Shipping","Versand und Abholung festlegen"
-Admin,Admin
-"Seller Wise","Seller Wise"
-"Product Wise","Product Wise"
-"* Required Fields","* Required Fields"
+Admin,Locorum
+"Seller Wise","Anbieterabhängig"
+"Product Wise","Produktabhängig"
+"* Required Fields","* Benötigte Felder"
 "Allowed Shipping","Zugelassene Lieferoptionen"
-Save,Save
+Save,Speichern
 "Manage Multi Shipping","Versand und Abholung"
-"Shipping Address","Shipping Address"
-"New Address","New Address"
-"Shipping Methods","Shipping Methods"
-"Select Method","Select Method"
-Price,Price
-"Method Title","Method Title"
-"Carrier Title","Carrier Title"
+"Shipping Address","Lieferadresse"
+"New Address","Neue Adresse"
+"Shipping Methods","Liefermethode"
+"Select Method","Methode wählen"
+Price,Preis
+"Method Title","Name der Liefermethode"
+"Carrier Title","Name des Dienstleisters"
 "Sorry, no quotes are available for this seller.","Dieser Händler bietet keine Lieferung an."
-Next,Next
+Next,Weiter
 "Sorry, no quotes are available for this order at this time","Dieser Händler bietet momentan keine Lieferung an."
-"Field ","Field "
-" is required."," is required."
-Submit,Submit
-Shipping,Shipping
-"Save Address","Save Address"
-Cancel,Cancel
+"Field ","Feld "
+" is required."," wird benötigt."
+Submit,Einsenden
+Shipping,Lieferung
+"Save Address","Adresse speichern"
+Cancel,Abbrechen
 "Webkul Marketplace Multi Shipping","Webkul Marketplace Multi Shipping"
-"Enabled for Checkout","Enabled for Checkout"
-Title,Title
+"Enabled for Checkout","Für den Versand zugelassen"
+Title,Titel
 "Show Price","Show Price"
 "Show Method if Not Applicable","Show Method if Not Applicable"
 "Multiship Shipping","Multiship Shipping"
