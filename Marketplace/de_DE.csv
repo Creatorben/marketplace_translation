@@ -735,7 +735,7 @@ Weight,Gewicht
 "Url Key","Url Schlüssel"
 "Product in Websites","Product in Websites"
 "Meta Title","Meta Title"
-"Allowed Product Qty on Product Purchase for Customer","Zugelassene Maximalmange für den Kunden"
+"Allowed Product Qty on Product Purchase for Customer","Zugelassene Maximalmenge für den Kunden"
 "By default %1 qty will be allowed for customer to add in cart.","Standardmässig ist die erlaubte Menge: %1 ."
 Warning,Warnung
 "Please Complete","Bitte vollständig ausfüllen"
@@ -826,10 +826,10 @@ Title:,Title:
 Uploaded:,Uploaded:
 Uploader:,Uploader:
 Duration:,Duration:
-"Product Images","Product Images"
+"Product Images","Produktbilder"
 "Add Video","Add Video"
 "Add video","Add video"
-"Click here or drag and drop to add images.","Click here or drag and drop to add images."
+"Click here or drag and drop to add images.","Per Drag und Drop Bilder hinzufügen."
 "Delete video","Delete video"
 "Delete image","Delete image"
 "Make Base","Make Base"
